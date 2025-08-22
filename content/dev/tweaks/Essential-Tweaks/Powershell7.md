@@ -340,7 +340,7 @@ function Set-o9Taskbaritem {
 
     .PARAMETER overlay
         Overlay icon to display on the taskbar item, there are the presets 'None', 'logo' and 'checkmark' or you can specify a path/link to an image file.
-        CTT logo preset:
+        o9 logo preset:
         - Set-o9Taskbaritem -overlay "logo"
         Checkmark preset:
         - Set-o9Taskbaritem -overlay "checkmark"
@@ -380,7 +380,7 @@ function Set-o9Taskbaritem {
     if ($overlay) {
         switch ($overlay) {
             'logo' {
-                $sync["Form"].taskbarItemInfo.Overlay = "$env:LOCALAPPDATA\o9\cttlogo.png"
+                $sync["Form"].taskbarItemInfo.Overlay = "$env:LOCALAPPDATA\o9\o9logo.png"
             }
             'checkmark' {
                 $sync["Form"].taskbarItemInfo.Overlay = "$env:LOCALAPPDATA\o9\checkmark.png"
@@ -413,4 +413,3 @@ function Set-o9Taskbaritem {
 
 
 [View the JSON file](https://github.com/o9-9/o9/tree/main/config/tweaks.json)
-
