@@ -1,4 +1,4 @@
-baseURL = "https://o9.o9ll.com/"
+baseURL = "https://docs.o9ll.com/"
 languageCode = "en-us"
 title = "o9 Documentation"
 enableGitInfo = true
@@ -72,7 +72,7 @@ dateFormat = "January 2, 2006"
 
   [params.page]
   width = "wide"
-  
+
   [params.footer]
   enable = true
   displayCopyright = true
