@@ -1,0 +1,28 @@
+/* Dark mode background color */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #151517;
+    --color-bg-secondary: #151517;
+  }
+  
+  html[data-theme="dark"] {
+    --color-bg: #151517;
+    --color-bg-secondary: #151517;
+    background-color: #151517;
+  }
+  
+  body {
+    background-color: #151517;
+  }
+}
+
+/* Also handle explicit dark theme class */
+html[data-theme="dark"] {
+  --color-bg: #151517;
+  --color-bg-secondary: #151517;
+  background-color: #151517;
+}
+
+html[data-theme="dark"] body {
+  background-color: #151517;
+}
