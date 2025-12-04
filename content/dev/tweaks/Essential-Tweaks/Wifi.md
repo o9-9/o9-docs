@@ -1,4 +1,4 @@
-# Disable Wifi-Sense
+# Disable Wi-Fi
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Wifi Sense is a spying service that phones home all nearby scanned wifi networks
 
 ```json
 {
-  "Content": "Disable Wifi-Sense",
+  "Content": "Disable Wi-Fi",
   "Description": "Wifi Sense is a spying service that phones home all nearby scanned wifi networks and your current geo location.",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a005_",
   "registry": [

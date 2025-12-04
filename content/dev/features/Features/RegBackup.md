@@ -1,4 +1,4 @@
-# Enable Daily Registry Backup Task 12.30am
+# Enable Registry Backup
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ Enables daily registry backup, previously disabled by Microsoft in Windows 10 18
 
 ```json
 {
-  "Content": "Enable Daily Registry Backup Task 12.30am",
+  "Content": "Enable Registry Backup",
   "Description": "Enables daily registry backup, previously disabled by Microsoft in Windows 10 1803.",
   "category": "Features",
   "panel": "1",

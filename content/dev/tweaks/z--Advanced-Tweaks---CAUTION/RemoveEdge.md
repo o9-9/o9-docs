@@ -20,7 +20,7 @@ Removes MS Edge when it gets reinstalled by updates. Credit: Techie Jack
 {
   "Content": "Remove Microsoft Edge",
   "Description": "Removes MS Edge when it gets reinstalled by updates. Credit: Techie Jack",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a029_",
   "InvokeScript": [

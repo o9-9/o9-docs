@@ -6,11 +6,11 @@ weight: 3
 
 ### Legacy Windows Panels
 
-- [Control Panel](control/)
-- [Network Connections](network/)
-- [Power Panel](power/)
-- [Printer Settings](printer/)
+- [Control](control/)
+- [Network](network/)
+- [Power](power/)
+- [Printer](printer/)
 - [Region](region/)
-- [Sound Settings](sound/)
-- [System Properties](system/)
+- [Sound](sound/)
+- [System](system/)
 - [User Accounts](user/)

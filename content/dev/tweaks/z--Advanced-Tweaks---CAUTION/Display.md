@@ -1,4 +1,4 @@
-# Set Display for Performance
+# Display Performance
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Sets the system preferences to performance. You can do this manually with sysdm.
 
 ```json
 {
-  "Content": "Set Display for Performance",
+  "Content": "Display Performance",
   "Description": "Sets the system preferences to performance. You can do this manually with sysdm.cpl as well.",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a027_",
   "registry": [

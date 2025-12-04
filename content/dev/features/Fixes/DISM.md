@@ -1,4 +1,4 @@
-# System Corruption Scan
+# System Scan
 
 Last Updated: 2024-08-07
 
@@ -16,7 +16,7 @@ Last Updated: 2024-08-07
 
 ```json
 {
-  "Content": "System Corruption Scan",
+  "Content": "System Scan",
   "category": "Fixes",
   "panel": "1",
   "Order": "a043_",

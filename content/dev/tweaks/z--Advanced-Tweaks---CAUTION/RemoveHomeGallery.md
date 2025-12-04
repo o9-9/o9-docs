@@ -20,7 +20,7 @@ Removes the Home and Gallery from explorer and sets This PC as default
 {
   "Content": "Remove Home and Gallery from explorer",
   "Description": "Removes the Home and Gallery from explorer and sets This PC as default",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a029_",
   "InvokeScript": [

@@ -1,4 +1,4 @@
-# Show Hidden Files
+# Hidden Files
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ If Enabled then Hidden Files will be shown.
 
 ```json
 {
-  "Content": "Show Hidden Files",
+  "Content": "Hidden Files",
   "Description": "If Enabled then Hidden Files will be shown.",
   "category": "Customize Preferences",
   "panel": "2",

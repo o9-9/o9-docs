@@ -1,4 +1,4 @@
-# Verbose Messages During Logon
+# Verbose Messages
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ Show detailed messages during the login process for troubleshooting and diagnost
 
 ```json
 {
-  "Content": "Verbose Messages During Logon",
+  "Content": "Verbose Messages",
   "Description": "Show detailed messages during the login process for troubleshooting and diagnostics.",
   "category": "Customize Preferences",
   "panel": "2",

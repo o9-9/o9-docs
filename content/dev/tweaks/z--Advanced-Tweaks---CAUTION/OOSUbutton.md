@@ -17,7 +17,7 @@ Last Updated: 2024-08-07
 ```json
 {
   "Content": "Run OO Shutup 10",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a039_",
   "Type": "Button",

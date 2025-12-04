@@ -1,4 +1,4 @@
-# Control Panel
+# Control
 
 Last Updated: 2024-08-07
 
@@ -16,7 +16,7 @@ Last Updated: 2024-08-07
 
 ```json
 {
-  "Content": "Control Panel",
+  "Content": "Control",
   "category": "Legacy Windows Panels",
   "panel": "2",
   "Type": "Button",

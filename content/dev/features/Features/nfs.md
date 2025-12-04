@@ -1,4 +1,4 @@
-# NFS - Network File System
+# NFS Network 
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ Network File System (NFS) is a mechanism for storing files on a network.
 
 ```json
 {
-  "Content": "NFS - Network File System",
+  "Content": "NFS Network ",
   "Description": "Network File System (NFS) is a mechanism for storing files on a network.",
   "category": "Features",
   "panel": "1",

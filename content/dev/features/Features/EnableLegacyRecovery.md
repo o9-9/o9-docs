@@ -1,4 +1,4 @@
-# Enable Legacy F8 Boot Recovery
+# Enable F8 Boot
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ Enables Advanced Boot Options screen that lets you start Windows in advanced tro
 
 ```json
 {
-  "Content": "Enable Legacy F8 Boot Recovery",
+  "Content": "Enable F8 Boot",
   "Description": "Enables Advanced Boot Options screen that lets you start Windows in advanced troubleshooting modes.",
   "category": "Features",
   "panel": "1",

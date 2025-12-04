@@ -1,4 +1,4 @@
-# Create Restore Point
+# Restore Point
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Creates a restore point at runtime in case a revert is needed from o9 modificati
 
 ```json
 {
-  "Content": "Create Restore Point",
+  "Content": "Restore Point",
   "Description": "Creates a restore point at runtime in case a revert is needed from o9 modifications",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Checked": "False",
   "Order": "a001_",

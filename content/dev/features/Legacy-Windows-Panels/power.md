@@ -1,4 +1,4 @@
-# Power Panel
+# Power
 
 Last Updated: 2024-08-07
 
@@ -16,7 +16,7 @@ Last Updated: 2024-08-07
 
 ```json
 {
-  "Content": "Power Panel",
+  "Content": "Power",
   "category": "Legacy Windows Panels",
   "panel": "2",
   "Type": "Button",

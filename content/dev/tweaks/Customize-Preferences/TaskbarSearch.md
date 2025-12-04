@@ -1,4 +1,4 @@
-# Search Button in Taskbar
+# Search Button
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ If Enabled Search Button will be on the taskbar.
 
 ```json
 {
-  "Content": "Search Button in Taskbar",
+  "Content": "Search Button",
   "Description": "If Enabled Search Button will be on the taskbar.",
   "category": "Customize Preferences",
   "panel": "2",

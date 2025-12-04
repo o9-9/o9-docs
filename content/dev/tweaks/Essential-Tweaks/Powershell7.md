@@ -1,4 +1,4 @@
-# Change Windows Terminal default: PowerShell 5 -> PowerShell 7
+# Change Terminal: PowerShell 5 -> PowerShell 7
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ This will edit the config file of the Windows Terminal replacing PowerShell 5 wi
 
 ```json
 {
-  "Content": "Change Windows Terminal default: PowerShell 5 -> PowerShell 7",
+  "Content": "Change Terminal: PowerShell 5 -> PowerShell 7",
   "Description": "This will edit the config file of the Windows Terminal replacing PowerShell 5 with PowerShell 7 and installing PS7 if necessary",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a009_",
   "InvokeScript": [

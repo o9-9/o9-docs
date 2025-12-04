@@ -1,4 +1,4 @@
-# Windows Subsystem for Linux
+# Linux
 
 Last Updated: 2024-08-07
 
@@ -7,7 +7,7 @@ Last Updated: 2024-08-07
      The Development Documentation is auto generated for every compilation of o9, meaning a part of it will always stay up-to-date. **Developers do have the ability to add custom content, which won't be updated automatically.**
 ## Description
 
-Windows Subsystem for Linux is an optional feature of Windows that allows Linux programs to run natively on Windows without the need for a separate virtual machine or dual booting.
+Linux is an optional feature of Windows that allows Linux programs to run natively on Windows without the need for a separate virtual machine or dual booting.
 
 <!-- BEGIN CUSTOM CONTENT -->
 
@@ -18,8 +18,8 @@ Windows Subsystem for Linux is an optional feature of Windows that allows Linux 
 
 ```json
 {
-  "Content": "Windows Subsystem for Linux",
-  "Description": "Windows Subsystem for Linux is an optional feature of Windows that allows Linux programs to run natively on Windows without the need for a separate virtual machine or dual booting.",
+  "Content": "Linux",
+  "Description": "Linux is an optional feature of Windows that allows Linux programs to run natively on Windows without the need for a separate virtual machine or dual booting.",
   "category": "Features",
   "panel": "1",
   "Order": "a020_",

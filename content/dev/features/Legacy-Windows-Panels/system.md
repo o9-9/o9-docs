@@ -1,4 +1,4 @@
-# System Properties
+# System
 
 Last Updated: 2024-08-07
 
@@ -16,7 +16,7 @@ Last Updated: 2024-08-07
 
 ```json
 {
-  "Content": "System Properties",
+  "Content": "System",
   "category": "Legacy Windows Panels",
   "panel": "2",
   "Type": "Button",

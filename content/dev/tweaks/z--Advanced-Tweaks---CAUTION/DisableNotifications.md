@@ -1,4 +1,4 @@
-# Disable Notification Tray/Calendar
+# Disable Notification
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Disables all Notifications INCLUDING Calendar
 
 ```json
 {
-  "Content": "Disable Notification Tray/Calendar",
+  "Content": "Disable Notification",
   "Description": "Disables all Notifications INCLUDING Calendar",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a026_",
   "registry": [

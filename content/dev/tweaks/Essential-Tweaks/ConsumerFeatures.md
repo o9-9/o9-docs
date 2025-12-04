@@ -1,4 +1,4 @@
-# Disable ConsumerFeatures
+# Disable Consumer
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Windows 10 will not automatically install any games, third-party apps, or applic
 
 ```json
 {
-  "Content": "Disable ConsumerFeatures",
+  "Content": "Disable Consumer",
   "Description": "Windows 10 will not automatically install any games, third-party apps, or application links from the Windows Store for the signed-in user. Some default Apps will be inaccessible (eg. Phone Link)",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a003_",
   "registry": [

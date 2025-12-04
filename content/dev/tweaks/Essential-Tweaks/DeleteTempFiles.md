@@ -1,4 +1,4 @@
-# Delete Temporary Files
+# Delete Temporary
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Erases TEMP Folders
 
 ```json
 {
-  "Content": "Delete Temporary Files",
+  "Content": "Delete Temporary",
   "Description": "Erases TEMP Folders",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a002_",
   "InvokeScript": [

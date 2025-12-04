@@ -1,4 +1,4 @@
-# Set Services to Manual
+# Manual Services
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Turns a bunch of system services to manual that don't need to be running all the
 
 ```json
 {
-  "Content": "Set Services to Manual",
+  "Content": "Manual Services",
   "Description": "Turns a bunch of system services to manual that don't need to be running all the time. This is pretty harmless as if the service is needed, it will simply start on demand.",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a014_",
   "service": [

@@ -20,7 +20,7 @@ Disables various telemetry options, popups, and other annoyances in Edge.
 {
   "Content": "Debloat Edge",
   "Description": "Disables various telemetry options, popups, and other annoyances in Edge.",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a016_",
   "registry": [

@@ -1,4 +1,4 @@
-# Network Connections
+# Network
 
 Last Updated: 2024-08-07
 
@@ -16,7 +16,7 @@ Last Updated: 2024-08-07
 
 ```json
 {
-  "Content": "Network Connections",
+  "Content": "Network",
   "category": "Legacy Windows Panels",
   "panel": "2",
   "Type": "Button",

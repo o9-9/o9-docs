@@ -1,4 +1,4 @@
-# Enable Search Box Web Suggestions in Registry(explorer restart)
+# Enable Search Web)
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ Enables web suggestions when searching using Windows Search.
 
 ```json
 {
-  "Content": "Enable Search Box Web Suggestions in Registry(explorer restart)",
+  "Content": "Enable Search Web)",
   "Description": "Enables web suggestions when searching using Windows Search.",
   "category": "Features",
   "panel": "1",

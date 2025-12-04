@@ -20,7 +20,7 @@ Manages Adobe Services, Adobe Desktop Service, and Acrobat Updates
 {
   "Content": "Adobe Debloat",
   "Description": "Manages Adobe Services, Adobe Desktop Service, and Acrobat Updates",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a021_",
   "InvokeScript": [

@@ -6,9 +6,9 @@ weight: 3
 
 ### Fixes
 
-- [Remove Adobe Creative Cloud](runadobecccleanertool/)
+- [Remove Adobe](runadobecccleanertool/)
 - [Reset Network](network/)
-- [Reset Windows Update](update/)
-- [Set Up Autologin](autologin/)
-- [System Corruption Scan](dism/)
+- [Reset Update](update/)
+- [Enable Autologin](autologin/)
+- [System Scan](dism/)
 - [WinGet Reinstall](winget/)

@@ -1,4 +1,4 @@
-# Show File Extensions
+# File Extensions
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ If enabled then File extensions (e.g., .txt, .jpg) are visible.
 
 ```json
 {
-  "Content": "Show File Extensions",
+  "Content": "File Extensions",
   "Description": "If enabled then File extensions (e.g., .txt, .jpg) are visible.",
   "category": "Customize Preferences",
   "panel": "2",

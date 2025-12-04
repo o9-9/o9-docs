@@ -1,4 +1,4 @@
-# Disable Microsoft Copilot
+# Disable Copilot
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Disables MS Copilot AI built into Windows since 23H2.
 
 ```json
 {
-  "Content": "Disable Microsoft Copilot",
+  "Content": "Disable Copilot",
   "Description": "Disables MS Copilot AI built into Windows since 23H2.",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a025_",
   "registry": [

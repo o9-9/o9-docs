@@ -1,4 +1,4 @@
-# Windows Sandbox
+# Enable Sandbox
 
 Last Updated: 2024-08-07
 
@@ -7,7 +7,7 @@ Last Updated: 2024-08-07
      The Development Documentation is auto generated for every compilation of o9, meaning a part of it will always stay up-to-date. **Developers do have the ability to add custom content, which won't be updated automatically.**
 ## Description
 
-Windows Sandbox is a lightweight virtual machine that provides a temporary desktop environment to safely run applications and programs in isolation.
+Enable Sandbox is a lightweight virtual machine that provides a temporary desktop environment to safely run applications and programs in isolation.
 
 <!-- BEGIN CUSTOM CONTENT -->
 
@@ -18,12 +18,12 @@ Windows Sandbox is a lightweight virtual machine that provides a temporary deskt
 
 ```json
 {
-  "Content": "Windows Sandbox",
+  "Content": "Enable Sandbox",
   "category": "Features",
   "panel": "1",
   "Order": "a021_",
-  "Description": "Windows Sandbox is a lightweight virtual machine that provides a temporary desktop environment to safely run applications and programs in isolation.",
-  "link": "https://o9-9.github.io/o9/dev/features/Features/Sandbox"
+  "Description": "Enable Sandbox is a lightweight virtual machine that provides a temporary desktop environment to safely run applications and programs in isolation.",
+  "link": "https://o9-9.github.io/o9/dev/features/Features/Enable Sandbox"
 }
 ```
 

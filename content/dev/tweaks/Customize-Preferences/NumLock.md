@@ -1,4 +1,4 @@
-# NumLock on Startup
+# NumLock
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ Toggle the Num Lock key state when your computer starts.
 
 ```json
 {
-  "Content": "NumLock on Startup",
+  "Content": "NumLock",
   "Description": "Toggle the Num Lock key state when your computer starts.",
   "category": "Customize Preferences",
   "panel": "2",

@@ -1,4 +1,4 @@
-# Disable Activity History
+# Disable History
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ This erases recent docs, clipboard, and run history.
 
 ```json
 {
-  "Content": "Disable Activity History",
+  "Content": "Disable History",
   "Description": "This erases recent docs, clipboard, and run history.",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a005_",
   "registry": [

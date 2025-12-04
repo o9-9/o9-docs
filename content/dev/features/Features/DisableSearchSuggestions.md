@@ -1,4 +1,4 @@
-# Disable Search Box Web Suggestions in Registry(explorer restart)
+# Disable Search Web)
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ Disables web suggestions when searching using Windows Search.
 
 ```json
 {
-  "Content": "Disable Search Box Web Suggestions in Registry(explorer restart)",
+  "Content": "Disable Search Web)",
   "Description": "Disables web suggestions when searching using Windows Search.",
   "category": "Features",
   "panel": "1",

@@ -1,4 +1,4 @@
-# Disable Powershell 7 Telemetry
+# Disable Powershell Telemetry
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ This will create an Environment Variable called 'POWERSHELL_TELEMETRY_OPTOUT' wi
 
 ```json
 {
-  "Content": "Disable Powershell 7 Telemetry",
+  "Content": "Disable Powershell Telemetry",
   "Description": "This will create an Environment Variable called 'POWERSHELL_TELEMETRY_OPTOUT' with a value of '1' which will tell Powershell 7 to not send Telemetry Data.",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a009_",
   "InvokeScript": [

@@ -1,4 +1,4 @@
-# Disable Intel MM (vPro LMS)
+# Disable Intel
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Intel LMS service is always listening on all ports and could be a huge security 
 
 ```json
 {
-  "Content": "Disable Intel MM (vPro LMS)",
+  "Content": "Disable Intel",
   "Description": "Intel LMS service is always listening on all ports and could be a huge security risk. There is no need to run LMS on home machines and even in the Enterprise there are better solutions.",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a026_",
   "InvokeScript": [

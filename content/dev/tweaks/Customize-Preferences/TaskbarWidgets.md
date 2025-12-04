@@ -1,4 +1,4 @@
-# Widgets Button in Taskbar
+# Widgets
 
 Last Updated: 2024-08-07
 
@@ -7,7 +7,7 @@ Last Updated: 2024-08-07
      The Development Documentation is auto generated for every compilation of o9, meaning a part of it will always stay up-to-date. **Developers do have the ability to add custom content, which won't be updated automatically.**
 ## Description
 
-If Enabled then Widgets Button in Taskbar will be shown.
+If Enabled then Widgets will be shown.
 
 <!-- BEGIN CUSTOM CONTENT -->
 
@@ -18,8 +18,8 @@ If Enabled then Widgets Button in Taskbar will be shown.
 
 ```json
 {
-  "Content": "Widgets Button in Taskbar",
-  "Description": "If Enabled then Widgets Button in Taskbar will be shown.",
+  "Content": "Widgets",
+  "Description": "If Enabled then Widgets will be shown.",
   "category": "Customize Preferences",
   "panel": "2",
   "Order": "a204_",

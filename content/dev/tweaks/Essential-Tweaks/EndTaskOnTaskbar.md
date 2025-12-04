@@ -1,4 +1,4 @@
-# Enable End Task With Right Click
+# End Task
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Enables option to end task when right clicking a program in the taskbar
 
 ```json
 {
-  "Content": "Enable End Task With Right Click",
+  "Content": "End Task",
   "Description": "Enables option to end task when right clicking a program in the taskbar",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a006_",
   "InvokeScript": [

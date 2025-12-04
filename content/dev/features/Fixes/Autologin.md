@@ -1,4 +1,4 @@
-# Set Up Autologin
+# Enable Autologin
 
 Last Updated: 2024-08-07
 
@@ -16,7 +16,7 @@ Last Updated: 2024-08-07
 
 ```json
 {
-  "Content": "Set Up Autologin",
+  "Content": "Enable Autologin",
   "category": "Fixes",
   "Order": "a040_",
   "panel": "1",

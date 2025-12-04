@@ -1,4 +1,4 @@
-# Task View Button in Taskbar
+# Task View
 
 Last Updated: 2024-08-07
 
@@ -7,7 +7,7 @@ Last Updated: 2024-08-07
      The Development Documentation is auto generated for every compilation of o9, meaning a part of it will always stay up-to-date. **Developers do have the ability to add custom content, which won't be updated automatically.**
 ## Description
 
-If Enabled then Task View Button in Taskbar will be shown.
+If Enabled then Task View will be shown.
 
 <!-- BEGIN CUSTOM CONTENT -->
 
@@ -18,8 +18,8 @@ If Enabled then Task View Button in Taskbar will be shown.
 
 ```json
 {
-  "Content": "Task View Button in Taskbar",
-  "Description": "If Enabled then Task View Button in Taskbar will be shown.",
+  "Content": "Task View",
+  "Description": "If Enabled then Task View will be shown.",
   "category": "Customize Preferences",
   "panel": "2",
   "Order": "a203_",

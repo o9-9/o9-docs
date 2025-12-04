@@ -20,7 +20,7 @@ Teredo network tunneling is a ipv6 feature that can cause additional latency, bu
 {
   "Content": "Disable Teredo",
   "Description": "Teredo network tunneling is a ipv6 feature that can cause additional latency, but may cause problems with some games",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a023_",
   "registry": [

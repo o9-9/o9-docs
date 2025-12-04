@@ -1,4 +1,4 @@
-# Reset Windows Update
+# Reset Update
 
 Last Updated: 2024-08-07
 
@@ -16,7 +16,7 @@ Last Updated: 2024-08-07
 
 ```json
 {
-  "Content": "Reset Windows Update",
+  "Content": "Reset Update",
   "category": "Fixes",
   "panel": "1",
   "Order": "a041_",
@@ -301,7 +301,7 @@ function Invoke-WPFFixesUpdate {
     Write-Progress -Id 0 -Activity "Repairing Windows Update" -Status "Completed" -PercentComplete 100
 
     $ButtonType = [System.Windows.MessageBoxButton]::OK
-    $MessageboxTitle = "Reset Windows Update "
+    $MessageboxTitle = "Reset Update "
     $Messageboxbody = ("Stock settings loaded.`n Please reboot your computer")
     $MessageIcon = [System.Windows.MessageBoxImage]::Information
 

@@ -1,4 +1,4 @@
-# Run Disk Cleanup
+# Disk Cleanup
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Runs Disk Cleanup on Drive C: and removes old Windows Updates.
 
 ```json
 {
-  "Content": "Run Disk Cleanup",
+  "Content": "Disk Cleanup",
   "Description": "Runs Disk Cleanup on Drive C: and removes old Windows Updates.",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a009_",
   "InvokeScript": [

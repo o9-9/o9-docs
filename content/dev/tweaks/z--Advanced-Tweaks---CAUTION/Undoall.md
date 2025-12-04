@@ -17,7 +17,7 @@ Last Updated: 2024-08-07
 ```json
 {
   "Content": "Undo Selected Tweaks",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a042_",
   "Type": "Button",

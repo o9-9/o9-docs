@@ -1,4 +1,4 @@
-# Set Hibernation as default (good for laptops)
+# Enable Hibernation
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Most modern laptops have connected standby enabled which drains the battery, thi
 
 ```json
 {
-  "Content": "Set Hibernation as default (good for laptops)",
+  "Content": "Enable Hibernation",
   "Description": "Most modern laptops have connected standby enabled which drains the battery, this sets hibernation as default which will not drain the battery. See issue https://github.com/o9-9/o9/issues/1399",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a014_",
   "registry": [

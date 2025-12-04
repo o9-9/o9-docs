@@ -1,4 +1,4 @@
-# Prefer IPv4 over IPv6
+# Prefer IPv4
 
 Last Updated: 2024-08-27
 
@@ -18,9 +18,9 @@ To set the IPv4 preference can have latency and security benefits on private net
 
 ```json
 {
-  "Content": "Prefer IPv4 over IPv6",
+  "Content": "Prefer IPv4",
   "Description": "To set the IPv4 preference can have latency and security benefits on private networks where IPv6 is not configured.",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a005_",
   "registry": [

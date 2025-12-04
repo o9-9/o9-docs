@@ -1,4 +1,4 @@
-# Remove Adobe Creative Cloud
+# Remove Adobe
 
 Last Updated: 2024-08-07
 
@@ -16,7 +16,7 @@ Last Updated: 2024-08-07
 
 ```json
 {
-  "Content": "Remove Adobe Creative Cloud",
+  "Content": "Remove Adobe",
   "category": "Fixes",
   "panel": "1",
   "Order": "a045_",

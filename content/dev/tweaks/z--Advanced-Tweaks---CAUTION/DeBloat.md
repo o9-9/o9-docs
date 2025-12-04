@@ -1,4 +1,4 @@
-# Remove ALL MS Store Apps - NOT RECOMMENDED
+# Remove Store Apps
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ USE WITH CAUTION!!!!! This will remove ALL Microsoft store apps other than the e
 
 ```json
 {
-  "Content": "Remove ALL MS Store Apps - NOT RECOMMENDED",
+  "Content": "Remove Store Apps",
   "Description": "USE WITH CAUTION!!!!! This will remove ALL Microsoft store apps other than the essentials to make winget work. Games installed by MS Store ARE INCLUDED!",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a028_",
   "appx": [

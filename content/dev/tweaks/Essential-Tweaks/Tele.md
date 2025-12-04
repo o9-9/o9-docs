@@ -20,7 +20,7 @@ Disables Microsoft Telemetry. Note: This will lock many Edge Browser settings. M
 {
   "Content": "Disable Telemetry",
   "Description": "Disables Microsoft Telemetry. Note: This will lock many Edge Browser settings. Microsoft spies heavily on you when using the Edge browser.",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a003_",
   "ScheduledTask": [

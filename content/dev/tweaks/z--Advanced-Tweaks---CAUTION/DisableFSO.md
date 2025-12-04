@@ -1,4 +1,4 @@
-# Disable Fullscreen Optimizations
+# Disable Fullscreen
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Disables FSO in all applications. NOTE: This will disable Color Management in Ex
 
 ```json
 {
-  "Content": "Disable Fullscreen Optimizations",
+  "Content": "Disable Fullscreen",
   "Description": "Disables FSO in all applications. NOTE: This will disable Color Management in Exclusive Fullscreen",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a024_",
   "registry": [

@@ -20,7 +20,7 @@ Disables MS Recall built into Windows since 24H2.
 "WPFTweaksRecallOff": {
     "Content": "Disable Recall",
     "Description": "Turn Recall off",
-    "category": "Essential Tweaks",
+    "category": "Tweaks l",
     "panel": "1",
     "Order": "a011_",
     "registry": [

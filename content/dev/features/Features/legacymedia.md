@@ -1,4 +1,4 @@
-# Legacy Media (WMP, DirectPlay)
+# Legacy Media
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ Enables legacy programs from previous versions of windows
 
 ```json
 {
-  "Content": "Legacy Media (WMP, DirectPlay)",
+  "Content": "Legacy Media",
   "Description": "Enables legacy programs from previous versions of windows",
   "category": "Features",
   "panel": "1",

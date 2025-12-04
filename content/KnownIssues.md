@@ -199,7 +199,7 @@ If you're using a laptop or tablet and find your battery drains too fast, please
     - Navigate to the *CPU*, *Memory*, *Network*, and other tabs to identify processes with high resource usage.
     - Consider reconfiguring, closing, disabling, or uninstalling applications that use a lot of resources.
 
-14. **Disable Activity History:**
+14. **Disable History:**
     - Open the Settings app, and go to *Privacy* > *Activity history*.
     - Turn off *Let Windows collect my activities from this PC*.
 

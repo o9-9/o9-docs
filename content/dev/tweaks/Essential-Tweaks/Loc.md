@@ -1,4 +1,4 @@
-# Disable Location Tracking
+# Disable Location
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Disables Location Tracking...DUH!
 
 ```json
 {
-  "Content": "Disable Location Tracking",
+  "Content": "Disable Location",
   "Description": "Disables Location Tracking...DUH!",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a005_",
   "registry": [

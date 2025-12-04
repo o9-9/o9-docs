@@ -1,4 +1,4 @@
-# Disable Storage Sense
+# Disable Storage
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Storage Sense deletes temp files automatically.
 
 ```json
 {
-  "Content": "Disable Storage Sense",
+  "Content": "Disable Storage",
   "Description": "Storage Sense deletes temp files automatically.",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a005_",
   "InvokeScript": [

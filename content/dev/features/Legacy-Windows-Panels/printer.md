@@ -1,4 +1,4 @@
-# Printer Settings
+# Printer
 
 Last Updated: 2024-08-31
 
@@ -16,7 +16,7 @@ Last Updated: 2024-08-31
 
 ```json
 {
-  "Content": "Printer Settings",
+  "Content": "Printer",
   "category": "Legacy Windows Panels",
   "panel": "2",
   "Type": "Button",

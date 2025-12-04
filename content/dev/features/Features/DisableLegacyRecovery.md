@@ -1,4 +1,4 @@
-# Disable Legacy F8 Boot Recovery
+# Disable F8 Boot
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ Disables Advanced Boot Options screen that lets you start Windows in advanced tr
 
 ```json
 {
-  "Content": "Disable Legacy F8 Boot Recovery",
+  "Content": "Disable F8 Boot",
   "Description": "Disables Advanced Boot Options screen that lets you start Windows in advanced troubleshooting modes.",
   "category": "Features",
   "panel": "1",

@@ -17,7 +17,7 @@ Last Updated: 2024-08-07
 ```json
 {
   "Content": "DNS",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a040_",
   "Type": "Combobox",

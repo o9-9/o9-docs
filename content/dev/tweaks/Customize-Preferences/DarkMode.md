@@ -1,4 +1,4 @@
-# Dark Theme for Windows
+# Dark Theme
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ Enable/Disable Dark Mode.
 
 ```json
 {
-  "Content": "Dark Theme for Windows",
+  "Content": "Dark Theme",
   "Description": "Enable/Disable Dark Mode.",
   "category": "Customize Preferences",
   "panel": "2",

@@ -20,7 +20,7 @@ Disables HomeGroup - HomeGroup is a password-protected home networking service t
 {
   "Content": "Disable Homegroup",
   "Description": "Disables HomeGroup - HomeGroup is a password-protected home networking service that lets you share your stuff with other PCs that are currently running and connected to your network.",
-  "category": "Essential Tweaks",
+  "category": "Tweaks l",
   "panel": "1",
   "Order": "a005_",
   "service": [

@@ -20,7 +20,7 @@ Moves OneDrive files to Default Home Folders and Uninstalls it.
 {
   "Content": "Remove OneDrive",
   "Description": "Moves OneDrive files to Default Home Folders and Uninstalls it.",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a030_",
   "InvokeScript": [

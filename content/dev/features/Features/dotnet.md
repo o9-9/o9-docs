@@ -1,4 +1,4 @@
-# All .Net Framework (2,3,4)
+# All .Net Framework
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ Last Updated: 2024-08-07
 
 ```json
 {
-  "Content": "All .Net Framework (2,3,4)",
+  "Content": "All .Net Framework",
   "Description": ".NET and .NET Framework is a developer platform made up of tools, programming languages, and libraries for building many different types of applications.",
   "category": "Features",
   "panel": "1",

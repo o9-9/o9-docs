@@ -1,4 +1,4 @@
-# Disable Background Apps
+# Disable Background
 
 Last Updated: 2024-08-07
 
@@ -18,9 +18,9 @@ Disables all Microsoft Store apps from running in the background, which has to b
 
 ```json
 {
-  "Content": "Disable Background Apps",
+  "Content": "Disable Background",
   "Description": "Disables all Microsoft Store apps from running in the background, which has to be done individually since Win11",
-  "category": "z__Advanced Tweaks - CAUTION",
+  "category": "z__Tweaks ll",
   "panel": "1",
   "Order": "a024_",
   "registry": [

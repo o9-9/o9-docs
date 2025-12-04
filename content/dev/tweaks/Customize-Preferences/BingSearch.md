@@ -1,4 +1,4 @@
-# Bing Search in Start Menu
+# Bing Search
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ If enable then includes web search results from Bing in your Start Menu search.
 
 ```json
 {
-  "Content": "Bing Search in Start Menu",
+  "Content": "Bing Search",
   "Description": "If enable then includes web search results from Bing in your Start Menu search.",
   "category": "Customize Preferences",
   "panel": "2",

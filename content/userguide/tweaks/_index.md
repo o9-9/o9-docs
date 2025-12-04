@@ -15,10 +15,10 @@ weight: 3
 * **Select Tweaks to Remove**: Choose the tweaks you want to disable or remove.
 * **Undo Tweaks**: Click the 'Undo Selected Tweaks' button at the bottom of the screen to apply the changes.
 
-### Essential Tweaks
-Essential Tweaks are modifications and optimizations that are generally safe for most users to implement. These tweaks are designed to enhance system performance, improve privacy, and reduce unnecessary system activities. They are considered low-risk and are recommended for users who want to ensure their system runs smoothly and efficiently without delving too deeply into complex configurations. The goal of Essential Tweaks is to provide noticeable improvements with minimal risk, making them suitable for a wide range of users, including those who may not have advanced technical knowledge.
+### Tweaks l
+Tweaks l are modifications and optimizations that are generally safe for most users to implement. These tweaks are designed to enhance system performance, improve privacy, and reduce unnecessary system activities. They are considered low-risk and are recommended for users who want to ensure their system runs smoothly and efficiently without delving too deeply into complex configurations. The goal of Tweaks l is to provide noticeable improvements with minimal risk, making them suitable for a wide range of users, including those who may not have advanced technical knowledge.
 
-### Advanced Tweaks (CAUTION)
+### Tweaks ll
 Advanced Tweaks are intended for experienced users who have a solid understanding of their system and the potential implications of making deep-level changes. These tweaks involve more significant alterations to the operating system and can provide substantial customization. However, they also carry a higher risk of causing system instability or unintended side effects if not implemented correctly. Users who choose to apply Advanced Tweaks should proceed with caution, ensuring they have adequate knowledge and backups in place to recover if something goes wrong. These tweaks are not recommended for novice users or those unfamiliar with the inner workings of their operating system.
 
 ### O&O Shutup

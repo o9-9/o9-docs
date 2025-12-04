@@ -1,4 +1,4 @@
-# HyperV Virtualization
+# HyperV
 
 Last Updated: 2024-08-07
 
@@ -18,7 +18,7 @@ Hyper-V is a hardware virtualization product developed by Microsoft that allows 
 
 ```json
 {
-  "Content": "HyperV Virtualization",
+  "Content": "HyperV",
   "Description": "Hyper-V is a hardware virtualization product developed by Microsoft that allows users to create and manage virtual machines.",
   "category": "Features",
   "panel": "1",
